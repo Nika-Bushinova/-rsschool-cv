@@ -54,3 +54,19 @@ IT Academy: Web application development with JavaScript (completed, mark - 9)
 
 IT Academy: Web application development with React (in process)
 
+
+
+### **Languages**:
+
+
+English - Upper-intermediate
+
+
+Russian - Native
+
+
+Belarussian - Native
+
+
+Polish - Basic
+
