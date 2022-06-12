@@ -196,39 +196,37 @@ transition: all .2s ease-in-out
    padding:0px 20px;
    font-weight: 600;
  }
+._info{  
+  background-color: #E7CFFE;
+  
+}
  .info__one{
     margin-bottom:20px;
-    background-color: #E7CFFE;
-
  }
 
  .info__two{
-    background-color: #E7CFFE;
     padding-bottom: 10px;
  }
  .info__three{
-    background-color: #E7CFFE;
     margin-bottom: 20px;
  
  }
  .info__four{
-    background-color: #E7CFFE;
     margin-bottom: 20px;
  }
  .info__five{
-    background-color: #E7CFFE;
     margin-bottom: 20px;
-padding-bottom:50px
+padding-bottom:50px;
+   
  }
  .info__six{
    margin-bottom:20px;
-   background-color: #E7CFFE;
    padding-bottom: 10px;
 }
 .info__seven{
    margin-bottom:20px;
-   background-color: #E7CFFE;
    padding-bottom: 10px;
+
 }
 .info__seven p{
 padding:10px
