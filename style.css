@@ -216,7 +216,7 @@ transition: all .2s ease-in-out
  }
  .info__five{
     margin-bottom: 20px;
-padding-bottom:50px;
+padding-bottom:270px;
    
  }
  .info__six{
@@ -230,6 +230,9 @@ padding-bottom:50px;
 }
 .info__seven p{
 padding:10px
+}
+.ulist__p{
+   background-color: rgb(135, 138, 242, 0.5);
 }
 
 h4{padding:10px 0px 0px 11%}
